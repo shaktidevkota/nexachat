@@ -15,7 +15,10 @@
       "supportsTablet": true
     },
     "android": {},
-    "web": {},
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
     "plugins": [
       "expo-font"
     ]
